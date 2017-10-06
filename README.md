@@ -1,0 +1,2 @@
+# Search-Engine-using-Hadoop-MapReduce
+Implemented popular information retrieval metrics like Term Frequency, Inverse Document Frequency, and their product and Term Frequency-Inverse Document Frequency (TF-IDF) developing a simple batch mode search engine which accepts a user query and outputs a list of documents with descending accumulated scores that best matches the query or search hits using the TF-IDF values.
